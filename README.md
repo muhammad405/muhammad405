@@ -1,80 +1,33 @@
-<h1 align="center">Hi there, I'm Muhammad Abdullayev 👋</h1>
+# 👋 Hi, I'm Muhammad Abdullayev
 
-<p align="center">
-  <b>Python Backend Developer</b><br>
-  Specialized in developing robust and scalable backend systems with Python, Django, and modern technologies.
-</p>
+## 🚀 My Projects
 
----
+### 1. [Kindergarten Management System](https://github.com/muhammad405/kindergarten_project)
+Web application for managing kindergarten meals, inventory, and reports.  
+**Tech stack:** Django, PostgreSQL, HTML/CSS, JavaScript.
 
-## 🚀 About Me
-I'm a passionate **Python Backend Developer** experienced in building scalable and efficient web applications.  
-I enjoy solving real-world problems, working with modern tools, and continuously improving my skills.
-
-💬 Ask me about: **Python, Django, REST APIs, Celery, RabbitMQ, Redis, Docker, Pytest, AWS, Deployment**  
-📫 Reach me at: **abdullaevmuhammad006@gmail.com**  
-🌍 Location: **Tashkent, Uzbekistan**  
+### 2. [Real Estate Inquiry Automation](https://github.com/muhammad405/real_estate_inquiry)
+Selenium-based automation for form submissions and data collection.  
+**Tech stack:** Python, Selenium, PostgreSQL.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-**🖥 Programming Languages:**  
-`Python`
-
-**⚙ Frameworks & Libraries:**  
-`Django`, `FastAPI`, `Celery`, `RabbitMQ`
-
-**🗄 Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Redis`
-
-**🔧 Tools & Platforms:**  
-`Docker`, `Git`, `GitHub`
-
-**☁ Cloud & DevOps:**  
-`AWS`, `PythonAnywhere`
-
-**🛡 Security & Testing:**  
-`Pytest`, `Selenium`
-
----
-
-## 📂 My Projects
-
-**1. Kindergarten Project**  
-A kindergarten management system for tracking meal portions, managing inventory, and generating monthly reports. Includes CSV export, user role restrictions (Admin, Chef), and real-time dashboard statistics.  
-**Tech stack:** Python, Django, Celery, DRF, JWT, Redis, PostgreSQL, AWS EC2  
-🔗 [View Repository](https://github.com/muhammad405/kindergarten_project)
-
-**2. PDP-Hotel**  
-A hotel management platform designed to handle reservations, room assignments, and client information with an efficient backend system.  
-**Tech stack:** Python, Django, PostgreSQL, Docker  
-🔗 [View Repository](https://github.com/muhammad405/PDP-Hotel)
-
-**3. 2k24-407_DB**  
-A structured database repository created for submitting and managing assignments, ensuring consistency and version control.  
-**Tech stack:** PostgreSQL, MySQL  
-🔗 [View Repository](https://github.com/muhammad405/2k24-407_DB)
-
-**4. GitHub Profile**  
-Direct link to my GitHub profile and all repositories.  
-🔗 [View Profile](https://github.com/muhammad405)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad405&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad405&theme=tokyonight" alt="GitHub Streak" height="160" />
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- 📧 **Email:** abdullaevmuhammad006@gmail.com  
-- 💻 [GitHub](https://github.com/muhammad405)  
-- 📱 Telegram: [@abduIIae1](https://t.me/abduIIae1)
-
----
+📫 **Email:** abdullaevmuhammad006@gmail.com  
+🐦 **Twitter:** [@abduIIae1](https://twitter.com/abduIIae1)  
