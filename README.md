@@ -1,33 +1,46 @@
-# 👋 Hi, I'm Muhammad Abdullayev
+<p align="center">
+  <b>Python Backend Developer</b><br>
+  Specialized in developing robust and scalable backend systems with Python, Django, and modern technologies.
+</p>
 
 ## 🚀 My Projects
 
-### 1. [Kindergarten Management System](https://github.com/muhammad405/kindergarten_project)
-Web application for managing kindergarten meals, inventory, and reports.  
-**Tech stack:** Django, PostgreSQL, HTML/CSS, JavaScript.
+### 📝 Kindergarten Management System
+[🔗 View Repository](https://github.com/muhammad405/kindergarten_project)  
+A Django-based application for managing meal portions, inventory tracking, and generating monthly reports for kindergartens.
 
-### 2. [Real Estate Inquiry Automation](https://github.com/muhammad405/real_estate_inquiry)
-Selenium-based automation for form submissions and data collection.  
-**Tech stack:** Python, Selenium, PostgreSQL.
+### 💼 Real Estate Inquiry Automation
+[🔗 View Repository](https://github.com/muhammad405/real_estate_inquiry)  
+Automates form submissions on real estate websites using Selenium for dynamic interaction and data collection.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+**🖥 Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+**⚙ Frameworks & Libraries:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%2300C04B?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-📫 **Email:** abdullaevmuhammad006@gmail.com  
-🐦 **Twitter:** [@abduIIae1](https://twitter.com/abduIIae1)  
+**🗄 Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**🔧 Tools & Platforms:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**☁ Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1E415E?style=for-the-badge&logo=python&logoColor=white)
+
+**🛡 Security & Testing:**  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
