@@ -1,4 +1,4 @@
-<h1 align="center">Salom 👋, men Muhammad Abdullayev</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Abdullayev</h1>
 <h3 align="center">Python Backend Developer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 📊 GitHub Statistikasi
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad405&show_icons=true&theme=tokyonight" alt="github stats" height="165"/>
